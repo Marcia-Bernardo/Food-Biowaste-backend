@@ -9,6 +9,7 @@
 <p align="center"> 
   <img src="image/Users Analysis.png" alt="Class Diagram" width="635px" height="500px">
 </p>
+
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 <h3 id="about-the-project"> 🛠️: Technologies used: </h3>

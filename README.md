@@ -1,5 +1,5 @@
 <p align="center"> 
-  <img src="gif/Pacman Logo2.jpg" alt="Pacman Logo" width="80px" height="80px">
+  <img src="image/dataBase Logo2.jpg" alt="Pacman Logo" width="80px" height="80px">
 </p>
 <h2 align="center">  Exploration And Control Of Systems and Integration Technologies Associated with Food Biowaste  </h2>
 

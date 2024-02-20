@@ -1,5 +1,5 @@
 <p align="center"> 
-  <img src="image/classDiagram.png Logo2.jpg" alt="Class Diagram" width="635px" height="500px">
+  <img src="image/classDiagram.png" alt="Class Diagram" width="635px" height="500px">
 </p>
 <h2 align="center">  Exploration And Control Of Systems and Integration Technologies Associated with Food Biowaste  </h2>
 

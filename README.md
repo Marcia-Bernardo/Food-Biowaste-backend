@@ -24,4 +24,35 @@
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
 
+<h2 id="scenario1"> :small_orange_diamond: Scenario 1: Token</h2>
+
+<p align="center"> 
+  <img src="image/token.png" alt="token" width="635px" height="500px">
+</p>
+
 ![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
+<h2 id="scenario1"> :small_orange_diamond: Scenario 1: Create circuit</h2>
+
+<p align="center"> 
+  <img src="image/createCircuit.png" alt="create circuit" width="635px" height="500px">
+</p>
+
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+
+
+<h2 id="scenario1"> :small_orange_diamond: Scenario 3: List Circuit</h2>
+
+<p align="center"> 
+  <img src="image/listCircuit.png" alt="list circuit" width="635px" height="500px">
+</p>
+
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+<h2 id="scenario1"> :small_orange_diamond: Scenario 3: MongoDB</h2>
+
+<p align="center"> 
+  <img src="image/mongo.png" alt=" Mongo DB" width="635px" height="500px">
+</p>
+
+![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
+

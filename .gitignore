@@ -1,0 +1,3 @@
+Angular/.angular/ 
+**/node_modules
+**/.env
